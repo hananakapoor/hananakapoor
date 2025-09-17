@@ -1,7 +1,7 @@
 
 👋 Hi, I’m **Hanana**
 
-💻 Developer exploring **full-stacktechnologies**, building practical projects to solve real-world problems. Always learning and experimenting 🚀
+💻 Developer exploring **full-stack technologies**, building practical projects to solve real-world problems. Always learning and experimenting 🚀
 
 ## 👀 About Me
 
